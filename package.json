@@ -1,0 +1,23 @@
+{
+  "name": "@yuheiy/gulp-debounce",
+  "description": "Call a debounced function when stream flows.",
+  "version": "0.0.1",
+  "author": "Yuhei Yasuda <yuhei.yasuda1003@gmail.com> (https://yuheiy.com/)",
+  "bugs": {
+    "url": "https://github.com/yuheiy/gulp-debounce/issues"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "through2": "^2.0.3"
+  },
+  "homepage": "https://github.com/yuheiy/gulp-debounce",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuheiy/gulp-debounce.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
