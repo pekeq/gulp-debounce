@@ -13,7 +13,7 @@ npm i -D @yuheiy/gulp-debounce
 ```javascript
 const gulp = require('gulp')
 const pug = require('gulp-pug')
-const debounce = require('gulp-debounce')
+const debounce = require('@yuheiy/gulp-debounce')
 const browserSync = require('browser-sync').create()
 
 gulp.task('html', () =>
